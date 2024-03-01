@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
     @GetMapping("/welcome")
     public String Welcome() {
-        return "Initial commit";
+        return "Velkommen til Azure";
 
     }
 }
