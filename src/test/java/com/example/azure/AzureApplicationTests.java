@@ -10,7 +10,7 @@ class AzureApplicationTests {
 
     @Test
     void contextLoads() {
-       // fail();
+       fail();
     }
 
 }
